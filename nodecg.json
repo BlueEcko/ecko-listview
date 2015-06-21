@@ -1,0 +1,13 @@
+{
+  "name": "ecko-listview",
+  "version": "0.0.1",
+  "nodecgDependency": "~0.5.0",
+  "authors": [
+    "BlueEcko <blueecko1@gmail.com>"
+  ],
+  "description": "BlueEcko's follow, sub and donations view bundle.",
+  "license": "MIT",
+  "extension": {
+        "path": "extension.js"
+  }
+}

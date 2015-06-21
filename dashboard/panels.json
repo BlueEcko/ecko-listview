@@ -1,0 +1,9 @@
+[
+  {
+    "name": "listview",
+    "title": "Follow, Sub and $$ List",
+    "width": 2,
+    "file": "panel.jade",
+    "faIcon": "fa-list"
+  }
+]
